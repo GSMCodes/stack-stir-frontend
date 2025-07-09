@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# StackStir: Collaborate. Create. Conquer.
 
-## Getting Started
+## 🚧 Project Status
 
-First, run the development server:
+**Currently in active development.**  
+The core landing page is complete, and work is ongoing on:
+- User Authentication  
+- Profile Management  
+- Project Collaboration Features  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📌 Project Overview
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+**StackStir** is a dynamic full-stack platform designed to empower developers to level up their tech skills by building real-world projects *collaboratively*. It bridges the gap between theoretical learning and practical application, helping users:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Find ideal coding partners  
+- Manage projects efficiently  
+- Build an impressive, tangible portfolio  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ❓ The Problem StackStir Solves
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Many aspiring developers struggle with:
+- Gaining real-world, practical experience  
+- Finding like-minded collaborators  
+- Building portfolios that stand out to employers  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## ✅ Our Solution
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+StackStir provides:
+- 🔍 Intelligent skill matching  
+- 🧠 Collaborative workspaces  
+- 🔧 Seamless integration with tools like GitHub  
+- 🚀 A launchpad for transforming learning into impactful real-world applications  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## ✨ Features
+
+StackStir includes a suite of powerful features to support collaboration and growth:
+
+- **🧠 Intelligent Skill Matching**  
+  Matches you with collaborators based on current skills and learning goals.
+
+- **🗃️ Collaborative Workspaces**  
+  Organize tasks via Kanban boards, share notes, and manage project assets.
+
+- **💬 Real-time Communication**  
+  Chat in-app and schedule video calls from within your project space.
+
+- **🔗 GitHub Integration**  
+  Auto-create repositories, invite collaborators, and use standard version control practices.
+
+- **🔍 Project Discovery & Creation**  
+  Browse curated ideas or propose your own challenge.
+
+- **📈 Skill Growth & Portfolio Building**  
+  Track progress, earn recognition, and build a job-ready portfolio.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- **React.js (Next.js):** Fast, scalable, SEO-friendly with SSR & SSG  
+- **Tailwind CSS:** Utility-first styling  
+- **Framer Motion:** Smooth animations and transitions  
+- **Aceternity UI:** Interactive components (cards, timelines, etc.)  
+- **Lucide React / Tabler Icons:** Crisp, scalable SVG icons  
+
+### **Backend (Planned)**
+- **Node.js + Express.js (or similar)**  
+- **Database:** MongoDB / PostgreSQL / Firestore  
+- **Authentication:** JWTs, GitHub OAuth  
+- **Real-time Communication:** Socket.io  
+- **GitHub API Integration**  
+- **Video APIs:** Zoom, Jitsi Meet  
+
+---
+
